@@ -277,7 +277,7 @@
   resolved "https://registry.yarnpkg.com/@boilerz/build-tools/-/build-tools-1.4.1.tgz#2ebe6fbc452a7ca5f979a3c23c7c3fc0edac8ccb"
   integrity sha512-BS1McRGJ+KEUCqS0nBjZduevX+kr67esRqsC5Vpgr5vUtoDGohNiwcdAZGKphHUlXFky75gvf9eQu+yxoJ9RCQ==
 
-"@boilerz/eslint-config@2.0.1":
+"@boilerz/eslint-config@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@boilerz/eslint-config/-/eslint-config-2.0.1.tgz#44d0174b00c9ddcc3079b3270ec27fabbe511559"
   integrity sha512-uK+jN2PavlQjothvHz5VPM+h2OGwERdyd3dhSpABVRNxLdxREa3TbdvR7WFnHo5eq56ui8jT+oU6ZSS/pbXLdg==
@@ -3297,9 +3297,9 @@ lru-cache@^6.0.0:
     yallist "^4.0.0"
 
 make-dir@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-3.0.2.tgz#04a1acbf22221e1d6ef43559f43e05a90dbb4392"
-  integrity sha512-rYKABKutXa6vXTXhoV18cBE7PaewPXHe/Bdq4v+ZLMhxbWApkFFplT0LcbMW+6BbjnQXzZ/sAvSE/JdguApG5w==
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-3.1.0.tgz#415e967046b3a7f1d185277d84aa58203726a13f"
+  integrity sha512-g3FeP20LNwhALb/6Cz6Dd4F2ngze0jz7tbzrD2wAV+o9FeNHe4rL+yK2md0J/fiSf1sa1ADhXqi5+oVwOM/eGw==
   dependencies:
     semver "^6.0.0"
 
