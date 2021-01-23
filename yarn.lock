@@ -277,7 +277,7 @@
   resolved "https://registry.yarnpkg.com/@boilerz/build-tools/-/build-tools-1.4.1.tgz#2ebe6fbc452a7ca5f979a3c23c7c3fc0edac8ccb"
   integrity sha512-BS1McRGJ+KEUCqS0nBjZduevX+kr67esRqsC5Vpgr5vUtoDGohNiwcdAZGKphHUlXFky75gvf9eQu+yxoJ9RCQ==
 
-"@boilerz/eslint-config@2.0.1":
+"@boilerz/eslint-config@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@boilerz/eslint-config/-/eslint-config-2.0.1.tgz#44d0174b00c9ddcc3079b3270ec27fabbe511559"
   integrity sha512-uK+jN2PavlQjothvHz5VPM+h2OGwERdyd3dhSpABVRNxLdxREa3TbdvR7WFnHo5eq56ui8jT+oU6ZSS/pbXLdg==
@@ -3359,17 +3359,17 @@ micromatch@^3.1.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.2"
 
-mime-db@1.43.0:
-  version "1.43.0"
-  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.43.0.tgz#0a12e0502650e473d735535050e7c8f4eb4fae58"
-  integrity sha512-+5dsGEEovYbT8UY9yD7eE4XTc4UwJ1jBYlgaQQF38ENsKR3wj/8q8RFZrF9WIZpB2V1ArTVFUva8sAul1NzRzQ==
+mime-db@1.45.0:
+  version "1.45.0"
+  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.45.0.tgz#cceeda21ccd7c3a745eba2decd55d4b73e7879ea"
+  integrity sha512-CkqLUxUk15hofLoLyljJSrukZi8mAtgd+yE5uO4tqRZsdsAJKv0O+rFMhVDRJgozy+yG6md5KwuXhD4ocIoP+w==
 
 mime-types@^2.1.12, mime-types@~2.1.19:
-  version "2.1.26"
-  resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.26.tgz#9c921fc09b7e149a65dfdc0da4d20997200b0a06"
-  integrity sha512-01paPWYgLrkqAyrlDorC1uDwl2p3qZT7yl806vW7DvDoxwXi46jsjFbg+WdwotBIk6/MbEhO/dh5aZ5sNj/dWQ==
+  version "2.1.28"
+  resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.28.tgz#1160c4757eab2c5363888e005273ecf79d2a0ecd"
+  integrity sha512-0TO2yJ5YHYr7M2zzT7gDU1tbwHxEUWBCLt0lscSNpcdAfFyJOVEpRYNS7EXVcTLNj/25QO8gulHC5JtTzSE2UQ==
   dependencies:
-    mime-db "1.43.0"
+    mime-db "1.45.0"
 
 mimic-fn@^2.1.0:
   version "2.1.0"
