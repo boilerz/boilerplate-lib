@@ -26,8 +26,5 @@
     "prettier": "^2.2.1",
     "ts-jest": "^25.5.1",
     "typescript": "^3"
-  },
-  "resolutions": {
-    "eslint/mkdirp/minimist": "^1.2.5"
   }
 }
