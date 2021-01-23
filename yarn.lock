@@ -277,7 +277,7 @@
   resolved "https://registry.yarnpkg.com/@boilerz/build-tools/-/build-tools-1.4.1.tgz#2ebe6fbc452a7ca5f979a3c23c7c3fc0edac8ccb"
   integrity sha512-BS1McRGJ+KEUCqS0nBjZduevX+kr67esRqsC5Vpgr5vUtoDGohNiwcdAZGKphHUlXFky75gvf9eQu+yxoJ9RCQ==
 
-"@boilerz/eslint-config@2.0.1":
+"@boilerz/eslint-config@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@boilerz/eslint-config/-/eslint-config-2.0.1.tgz#44d0174b00c9ddcc3079b3270ec27fabbe511559"
   integrity sha512-uK+jN2PavlQjothvHz5VPM+h2OGwERdyd3dhSpABVRNxLdxREa3TbdvR7WFnHo5eq56ui8jT+oU6ZSS/pbXLdg==
@@ -1372,9 +1372,9 @@ cssom@~0.3.6:
   integrity sha512-b0tGHbfegbhPJpxpiBPU2sCkigAqtM9O121le6bbOlgyV+NyGyCmVfJ6QW9eRjz8CpNfWEOYBIMIGRYkLwsIYg==
 
 cssstyle@^2.0.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/cssstyle/-/cssstyle-2.2.0.tgz#e4c44debccd6b7911ed617a4395e5754bba59992"
-  integrity sha512-sEb3XFPx3jNnCAMtqrXPDeSgQr+jojtCeNf8cvMNMh1cG970+lljssvQDzPq6lmmJu2Vhqood/gtEomBiHOGnA==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/cssstyle/-/cssstyle-2.3.0.tgz#ff665a0ddbdc31864b09647f34163443d90b0852"
+  integrity sha512-AZL67abkUzIuvcHqk7c09cezpGNcxUxU4Ioi/05xHk4DQeTkWmGYftIE6ctU6AEt+Gn4n1lDStOtj7FKycP71A==
   dependencies:
     cssom "~0.3.6"
 
