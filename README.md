@@ -9,18 +9,11 @@
 
 ### Setup
 
-1. Fork the project or manually run:
-```bash
-git clone git@github.com:boilerz/boilerplate-lib.git my-lib
-cd my-lib
-git remote set-url origin git@github.com:gh_user/my-lib
-```
-
-Then after pull run:
+Use as template, then after pulling the repo:
 
 ```bash
 yarn install
 yarn custom
 ```
 
-2. Add `CODECOV_TOKEN` env var on the CI settings of the project.
+2. Add `CODECOV_TOKEN` as a secret.
