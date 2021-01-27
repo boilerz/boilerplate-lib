@@ -16,3 +16,9 @@ yarn custom
 ```
 
 2. Add `CODECOV_TOKEN` as a secret.
+
+3. Update `.github/workflows/ci.yml` and delete the following line to enable automatic release:
+
+```yaml
+  version: 'false' # cut that line to enable this action
+```
