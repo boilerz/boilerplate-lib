@@ -11,3 +11,5 @@ updates:
   labels:
     - "dependencies"
     - "automerge"
+  commit-message:
+    prefix: ":arrow_up:"
