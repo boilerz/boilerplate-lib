@@ -9,6 +9,7 @@
   "private": false,
   "scripts": {
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "typecheck": "tsc",
     "custom": "customBoilerplate",
     "build": "buildTSPackage",
     "test": "jest --coverage",
