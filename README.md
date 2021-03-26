@@ -16,3 +16,11 @@ yarn custom
 ```
 
 2. Add `CODECOV_TOKEN` as a secret.
+
+3. Eventually enable auto versioning by removing `version: 'false'` in [.github/workflows/ci.yml](.github/workflows/ci.yml):
+
+```yaml
+      - uses: boilerz/action-version@master
+        with:
+          version: 'false'
+```
