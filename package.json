@@ -21,7 +21,7 @@
     "@boilerz/jest-config": "^1.0.30",
     "@boilerz/prettier-config": "^1.0.4",
     "@boilerz/tsconfig": "^1.4.16",
-    "@boilerz/tsconfig-production": "^1.4.15",
+    "@boilerz/tsconfig-production": "^1.4.16",
     "@types/jest": "^28.1.8",
     "codecov": "^3.8.3",
     "eslint": "^7.32.0",
